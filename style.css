@@ -12,7 +12,6 @@ body{
 }
 .postheader{
     background:white;
-    display:block;
 }
 h1{
 font-size:15px;
@@ -44,7 +43,6 @@ i {
     margin: 0 2px;
 }
 icons{
-    display:inline-block;
 }
 span{
     font-weight: bold;
